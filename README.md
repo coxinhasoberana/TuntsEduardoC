@@ -7,5 +7,5 @@
  This repository was created in order to solve the problem given in the Tunts challenge.
 For this, a GAS (Google Apps Script) language will be used, due to the challenge being given in a Google spreadsheet.
 
-### The program's operating manual is [here](https://github.com/eduardocinesio/TuntsEduardoC/blob/176a58759da766f8dda2923fcaa8ac8e73f8a4a8/Challenge%20code/Manual.md)
+### The program's operating manual is [here](https://github.com/eduardocinesio/TuntsEduardoC/blob/master/Challenge%20code/Manual.md)
 
